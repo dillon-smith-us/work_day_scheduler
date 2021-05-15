@@ -1,0 +1,58 @@
+.container {
+    padding: 20px;
+}
+
+.jumbotron {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    background-color: lightgray;
+}
+
+#todaysDay {
+    font-size: 20px;
+    font-weight: 900;
+}
+
+textarea {
+    background: transparent;
+    color: black;
+}
+
+.schedule {
+    border: black solid .5px;
+}
+
+.hours {
+    background-color: lightgray;
+    color: black;
+    border: .5px solid black;
+}
+
+.time-block{
+    text-align: center;
+    border-radius: 12px;
+}
+
+.past {
+    background-color: white;
+    color: black;
+}
+
+.present {
+    background-color: yellowgreen;
+    color: white;
+}
+
+.future {
+    background-color: lightskyblue;
+    color: white;
+}
+
+.saveBtn {
+    color: black;
+    border: black solid .5px;
+}
+
+.saveBtn:hover {
+    background-color:lightgreen;
+}
