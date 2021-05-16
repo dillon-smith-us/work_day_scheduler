@@ -2,7 +2,7 @@
 <h1>Website application for a day planner.</h1>
 
 This application allows a user to plan their day by hour via text-inputs to time-blocks, and saves that can be viewed in local storage.
-
+link to live website ---> https://dillon-smith-us.github.io/work_day_scheduler/
 input text into the empty text areas corresponding with the designated hours you want to plan for. click the save icon button to the right to save your text to the local storage.
 The local storage will store your inputs linked to military time digits!
 
